@@ -56,6 +56,9 @@ span{
     border-image: linear-gradient(180deg, red, salmon);
     border-image-slice: 1;
 }
+footer{
+    text-align: center;
+}
 #baby{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, purple, hotpink);
